@@ -1,0 +1,7 @@
+numpy
+pandas
+datasets
+transformers[torch]
+rouge-score
+torch
+huggingface_hub
